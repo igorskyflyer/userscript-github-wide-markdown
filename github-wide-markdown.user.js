@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub Wide Markdown
 // @namespace    https://greasyfork.org/users/1002054-igorskyflyer
-// @version      v1.0.0
+// @version      v1.0.1
 // @description  A lightweight UserScript that removes narrow layout; expands GitHub Markdown (*.md) files to full‑width for easier reading and better use of screen space.
 // @author       igorskyflyer
 // @date         2025-09-22
@@ -16,6 +16,7 @@
 // @compatible   safari
 // @compatible   edge
 // @homepageURL  https://github.com/igorskyflyer/userscript-github-wide-markdown
+// @supportURL   https://greasyfork.org/scripts/550390/feedback
 // ==/UserScript==
 
 // @ts-nocheck
