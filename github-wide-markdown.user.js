@@ -9,7 +9,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @run-at       document-end
 // @grant        none
-// @license      CC-BY-NC-ND-4.0
+// @license      GPL-3.0-or-later
 // @compatible   chrome
 // @compatible   firefox
 // @compatible   opera
