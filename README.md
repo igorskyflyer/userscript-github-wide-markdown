@@ -24,6 +24,28 @@
 
 <br>
 
+## ⚡ In Action
+
+<div align="center">
+  <figure>
+    <img src="https://raw.githubusercontent.com/igorskyflyer/userscript-github-wide-markdown/refs/heads/main/media/screenshots/github-wide-markdown-screenshot-before.png" alt="GitHub Markdown file displayed in default narrow 1012px container layout before applying GitHub Wide Markdown UserScript">
+    <br>
+    <figcaption>
+      <strong>Figure 1.</strong> <em>before using GitHub Wide Markdown UserScript</em>
+    </figcaption>
+  </figure>
+  <br>
+    <figure>
+    <img src="https://raw.githubusercontent.com/igorskyflyer/userscript-github-wide-markdown/refs/heads/main/media/screenshots/github-wide-markdown-screenshot-after.png" alt="GitHub Markdown file expanded to full width with GitHub Wide Markdown UserScript for easier reading and cleaner layout">
+    <br>
+    <figcaption>
+      <strong>Figure 2.</strong> <em>after using GitHub Wide Markdown UserScript</em>
+    </figcaption>
+  </figure>
+</div>
+
+<br>
+
 ## 🧩 Compatibility
 
 - Chrome
