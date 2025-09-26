@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/igorskyflyer/userscript-github-wide-markdown/refs/heads/main/media/screenshots/github-wide-markdown-screenshot-before.png" alt="GitHub Markdown file displayed in default narrow 1012px container layout before applying GitHub Wide Markdown UserScript" width="" height="">
     <br>
     <figcaption>
-      <strong>Figure 1.</strong> <em>before using GitHub Wide Markdown UserScript</em>
+      <strong>Figure 1.</strong> <em>default GitHub Markdown view in narrow 1012px layout</em>
     </figcaption>
   </figure>
   <br>
@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/igorskyflyer/userscript-github-wide-markdown/refs/heads/main/media/screenshots/github-wide-markdown-screenshot-after.png" alt="GitHub Markdown file expanded to full width with GitHub Wide Markdown UserScript for easier reading and cleaner layout">
     <br>
     <figcaption>
-      <strong>Figure 2.</strong> <em>after using GitHub Wide Markdown UserScript</em>
+      <strong>Figure 2.</strong> <em>GitHub Markdown expanded to full width with this UserScript</em>
     </figcaption>
   </figure>
 </div>
